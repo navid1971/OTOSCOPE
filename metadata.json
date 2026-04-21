@@ -1,0 +1,6 @@
+{
+  "name": "OTOSCOPE",
+  "description": "A professional ENT medical camera interface prototype with live video streaming and hardware connection verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
